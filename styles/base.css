@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&family=Roboto:wght@400;700&display=swap');
+@font-face{
+    font-family: gallient;
+    src: url(../assets/font/GallientRegular-eZoMp.ttf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --padding-inline:12px;
+    --main-green:#F9D80F;
+    --yellow:#49106F;
+}
+
+body{
+    font-family: 'Poppins',sans-serif;
+    
+    
+}
+h1{
+    font-size: 3rem;
+    line-height: 3rem;
+}
+h2{
+    font-size: 2.5rem;
+    line-height: 2.5rem;
+}
+h3{
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+}
+p{
+    
+    font-size: 1.1rem;
+    line-height: 1.2rem;
+
+}
+a{
+    font-size: 1.1rem;
+    text-decoration: none;
+    display: inline-block;
+    color: inherit;
+    /* color: white; */
+}
+
+/* <----Utility Clases----> */
+html {
+    scroll-behavior:smooth;
+    scroll-padding-top:100px;
+  }
+.flex{
+    display: flex;
+}
+ul{
+    list-style: none;
+}
+.container{
+    max-width: 1250px;
+    margin-inline: auto;
+    overflow: hidden;
+    
+}
+.yellow{
+    color: var(--yellow);
+}
+.line{
+    height: 1.5px;
+    opacity: 50%;
+    background-color: var(--dark-color);
+} 
+.u{
+    padding-bottom: 2px;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    width: fit-content;
+}
+.underline:hover{
+    padding-bottom: 1px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    width: fit-content;
+}
+.primary-button{
+    background-color: black;
+    border-radius: 20px;
+    color:white !important;
+    padding: 5px 20px;
+    text-transform: uppercase;
+
+    align-items: center;
+}
+.secondary-button{
+    color: black;
+    text-transform: uppercase;
+    padding: 5px 20px;
+    
+    background-color: inherit;
+    border: 1px solid black;
+    border-radius: 20px
+}
+
+
+
