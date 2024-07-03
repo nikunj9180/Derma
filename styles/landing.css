@@ -70,3 +70,51 @@ nav{
 .stats-sec p{
     text-transform: uppercase;
 }
+
+
+
+/* TESTIMONIAL */
+
+
+.testimonial{
+    /* background-color: var(--light-color); */
+} 
+.test-cont{
+    padding:20px var(--padding-inline);
+    text-align: center;
+    user-select: none;
+}
+
+.testi-card{
+    text-align: center;
+    padding:40px var(--padding-inline) ;
+    display: none;
+    animation: fadeIn 5s;
+    animation-timing-function: ease-in;
+    width: 100%;
+
+}
+.testi-cards{
+    align-items: center;
+    /* min-height to maintain container constant height throught the transition */
+    min-height: 200px;  
+}
+.testicontent{
+    padding: var(--padding-inline);
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.quote{
+    width: 10%;
+}
+.testi-customer{
+    font-weight: bold;
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    25% { opacity: 1; }
+    70%{opacity: 1;}
+    100% { opacity: 0; }
+}
