@@ -41,6 +41,10 @@
     .hero-image img {
         object-fit: cover;
     }
+    .company-logo img{
+        height:50px;
+        width:auto;
+    }
     .mid-nav{
         position: absolute;
         top: 100%;
