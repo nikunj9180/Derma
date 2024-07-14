@@ -1,4 +1,4 @@
-function heartchange(){}
+const tbtn = document.getElementById('nav-toggle');
 const nlnk = document.getElementById('nav-link');
 const nav = document.getElementById('nav');
 

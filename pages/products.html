@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Products</title>
+
+    <script src="https://kit.fontawesome.com/b5a8447ad3.js" crossorigin="anonymous" defer></script>
+
+    <link rel="stylesheet" href="../styles/products.css" />
+    <link rel="stylesheet" href="../styles/landing.css" />
+    <link rel="stylesheet" href="../styles/base.css" />
+    <link rel="stylesheet" href="../styles/responsive.css" />
+
+
+  </head>
+  <body>
+    <nav id="nav">
+      <div class="main-nav container flex">
+          <div class="left-nav">
+            <a href="../index.html">
+              <div class="company-logo">
+                  <img src="../assets/logo.png" alt="">
+                 </div>
+          </a>
+          </div>
+          <div class="mid-nav flex" id="nav-link">
+              <ul class="navlinks flex" id="nav-link">
+                  <li><a href="./products.html" class="hoverlinks">Product</a></li>
+                  <li><a href="../index.html#testimonial" class="hoverlinks">Testimonial</a></li>
+                  <li><a href="../index.html#faqs" class="hoverlinks">FAQS</a></li>
+                  <li><a href=../index.html#aboutus" class="hoverlinks">ABout us</a></li>
+              </ul>
+          </div>
+          <div class="right-nav">
+              <div class="primary-button"><a href="../index.html#contact">CONTACT US</a></div>
+              
+          </div>
+          <div class="nav-toggle" id="nav-toggle">
+            <var class="hamburger"><i class="fa-solid fa-bars fa-xl"></i></var>
+            <var class="cross"><i class="fa-solid fa-xmark fa-2xl"></i></var>
+        </div>
+      </div>
+  </nav>
+    <section class="hero col-12">
+      <div class="hero-content">
+        <div class="hero-image">
+          <img src="../assets/check.png" alt="Living Room"/>
+        </div>
+        <div class="heading">PRODUCTS</div>
+      </div>
+    </section>
+    <div class="categories">
+      <div class="categoryItemsContainer">
+        <h3>Brands</h3>
+        <div class="categoriesList">
+          <div class="listItems listItemsSelected" onclick="filterProducts('All', this)" id="brand-filter">All</div>
+          <div class="listItems" onclick="filterProducts('Aesthefill', this)" id="brand-filter">Aesthefill</div>
+          <div class="listItems" onclick="filterProducts('Belotero', this)" id="brand-filter">Belotero</div>
+          <div class="listItems" onclick="filterProducts('Fillmed', this)" id="brand-filter">Fillmed</div>
+          <div class="listItems" onclick="filterProducts('Sculptra', this)" id="brand-filter">Sculptra</div>
+          <div class="listItems" onclick="filterProducts('Profhilo', this)" id="brand-filter">Profhilo</div>
+          <div class="listItems" onclick="filterProducts('Dr Cyj', this)" id="brand-filter">Dr Cyj</div>
+          <div class="listItems" onclick="filterProducts('Dermaheal', this)" id="brand-filter">Dermaheal</div>
+          <div class="listItems" onclick="filterProducts('Lipo Lab', this)" id="brand-filter">Lipo Lab</div>
+          <div class="listItems" onclick="filterProducts('Monalisa', this)" id="brand-filter">Monalisa</div>
+          <div class="listItems" onclick="filterProducts('Nobata', this)" id="brand-filter">Nobata</div>
+          <div class="listItems" onclick="filterProducts('Caretox', this)" id="brand-filter">Caretox</div>
+          <div class="listItems" onclick="filterProducts('Batulux', this)" id="brand-filter">Batulux</div>
+          <div class="listItems" onclick="filterProducts('Secret Line', this)" id="brand-filter">Secret Line</div>
+          <div class="listItems" onclick="filterProducts('Juvederm', this)" id="brand-filter">Juvederm</div>
+          <div class="listItems" onclick="filterProducts('Saypha', this)" id="brand-filter">Saypha</div>
+          <div class="listItems" onclick="filterProducts('Teosyal', this)" id="brand-filter">Teosyal</div>
+          <div class="listItems" onclick="filterProducts('Ellanse', this)" id="brand-filter">Ellanse</div>
+          <div class="listItems" onclick="filterProducts('Restylane', this)" id="brand-filter">Restylane</div>
+          <div class="listItems" onclick="filterProducts('Olidia', this)" id="brand-filter">Olidia</div>
+
+        </div>
+      </div>
+      <div class="productList col-10" id="product-list">
+        <!-- <div class="productCard">
+          <img src="../assets/product.Png" alt="" class="productImg" />
+          <div class="productInfo">
+            <p class="">Syringe 1 x 1ml</p>
+            <h3 class="productHeading">
+              <hr class="partitionLine" />
+              BELOTERO® BALANCE LIDOCAINE 1ML
+              <hr class="partitionLine" />
+            </h3>
+            <p class="textInfo">Price:</p>
+          </div>
+        </div> -->
+      </div>
+    </div>
+    <section class="footer">
+      <div class="container intrested-cont flex">
+          <div class="left-footer">
+              <h2>Anjali Medical Traders</h2>
+          </div>
+          <div class="mid-footer">
+              <p>© 2024 AnjaliMedicalTraders</p>
+          </div>
+          <div class="right-footer">
+              <ul class="footer-logo flex">
+                  <li><a target="_blank" href="https://www.instagram.com/anjalimedicaltradingllc/"><i class="fab fa-instagram fa-2xl fa-lg"></i></a></li>
+                  <li><a target="_blank" id="whatsappButton"><i class="fab fa-whatsapp fa-2xl fa-lg"></i></a></li>
+                  <li><a target="_blank"href="https://www.linkedin.com/company/anjali-medical-trading-llc/"><i class="fa-brands fa-linkedin fa-2xl fa-lg"></i></a></li>
+              </ul>
+          </div>
+      </div>
+  </section>
+
+  <script>
+    const tbtn = document.getElementById('nav-toggle');
+const nlnk = document.getElementById('nav-link');
+const nav = document.getElementById('nav');
+
+tbtn.addEventListener('click', () => {
+nlnk.classList.toggle("active");
+nav.classList.toggle("active");
+});
+  </script>
+    <!-- <script type="module" src="../js/product-list.js" defer></script> -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+          fetch('../products.json')
+              .then(response => response.json())
+              .then(data => {
+                  renderProductList(data.products);
+                  window.products = data.products; // Store products data globally for filtering
+              });
+      });
+
+      function renderProductList(products) {
+          const productList = document.getElementById('product-list');
+          productList.innerHTML = '';
+          products.forEach((product, index) => {
+              const productCard = document.createElement('div');
+              productCard.className = 'productCard';
+              productCard.innerHTML = `
+                  <img src="${product.image}" alt="" class="productImg" />
+                  <div class="productInfo">
+                      <p>${product.quantity}</p>
+                      <h3 class="productHeading">
+                          <hr class="partitionLine" />
+                          ${product.name}
+                          <hr class="partitionLine" />
+                      </h3>
+                      <p class="textInfo">Price: ${product.price}</p>
+                      
+                  </div>
+              `;
+              productCard.onclick = () => showProductDetail(product.id);
+              productList.appendChild(productCard);
+          });
+      }
+
+      function showProductDetail(id) {
+          // Navigate to the product detail page with the product ID as a URL parameter
+          window.location.href = `single_page.html?id=${id}`;
+      }
+
+      function filterProducts(brand, button) {
+          const filteredProducts = brand === 'All' ? window.products : window.products.filter(product => product.brand === brand);
+          console.log("clicked")
+          renderProductList(filteredProducts);
+          const buttons = document.querySelectorAll('#brand-filter');
+            buttons.forEach(btn => btn.classList.remove('listItemsSelected'));
+
+            // Add the class to the selected button
+            button.classList.add('listItemsSelected');
+      }
+  </script>
+  <script>
+    document.getElementById('whatsappButton').addEventListener('click', function() {
+        const phoneNumber = '7982327629'; // Replace with the target phone number in international format without '+' sign
+        const message = 'Hello, I have an enquiry for order.'; // Replace with your message
+        const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
+        window.open(whatsappUrl, '_blank');
+    });
+</script>
+  </body>
+</html>

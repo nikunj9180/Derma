@@ -1,0 +1,178 @@
+@media screen and (max-width:1180px){
+    .faq-cont{
+        max-height: 500px;
+    }
+}
+@media screen and (max-width: 970px){
+    .faq-heading h2{
+        font-size: 2rem;
+    }
+    .faq-cont p{
+        font-size: 1rem;
+    }
+    .answer{
+        font-size: 0.9rem;
+    }
+    .faqs{
+        margin: 1rem;
+    }
+
+}
+
+@media screen and (max-width:824px){
+    .testimonial-header h2{
+        font-size: 1.8rem;
+    }
+    .testimonial-cont{
+        gap: 20px;
+    }
+}
+
+@media screen and (max-width:768px){
+    .nav-toggle{
+        display: initial;
+    }
+    .hero{
+        margin-bottom: 3rem;
+    }
+    .cross{
+        display: none;
+    }
+    .hero-image img {
+        object-fit: cover;
+    }
+    .mid-nav{
+        position: absolute;
+        top: 100%;
+        left: -100%;
+        width: 100%;
+        background-color: white;
+        padding: 1px;
+        transition: 0.3s all ease-in;
+        /* align-items: center; */
+
+    }
+    .right-nav{
+        position: absolute;
+        top: 100%;
+        left: -100%;
+        width: 100%;
+        background-color: white;
+        padding: 1px;
+        transition: 0.3s all ease-in; 
+    }
+    .right-nav.active{
+        left:0%;
+    }
+    .mid-nav.flex.active{
+        left: 0%;
+
+    }
+    .mid-nav{
+        align-items: center;
+    }
+    .navlinks.flex{
+        width: 100%;
+        flex-direction: column;
+        align-items: center;
+    }
+    nav.active .cross{
+        display: initial;
+    }
+    nav.active .hamburger{
+        display: none;
+    }
+    .faq-cont{
+        flex-direction: column;
+        gap: 0%;
+        max-height: 1000px;
+    }
+    .faq-heading{
+        width: 100%;
+    }
+    .faq-ques{
+        width: 100%;
+    }
+    .intrested-cont{
+        justify-content: center;
+        flex-direction: column;
+    }
+    .left-footer h2{
+        font-size: 1.5rem;
+    }
+    .mid-footer p{
+        margin: 10px;
+    }
+    .right-footer{
+        margin: 10px;
+    }
+    .testimonial{
+        padding: 12px;
+    }
+
+    .about-us-section-cont{
+        padding:2rem;
+        flex-direction: column-reverse;
+        align-items: center;
+        margin-top:20px;
+        margin-bottom: 20px;
+    }
+    .left-land-aboutus{
+        width:100%;
+        align-items: center;
+    }
+    .land-about-content{
+        align-items: center;
+    }
+    .land-about-content h2{
+        font-size: 1.5rem;
+    }
+    .right-land-aboutus{
+        width: 100%;
+    }
+    .main-contact{
+        flex-direction: column-reverse;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .contact-details{
+        width:100%;
+        margin-top: 20px;
+    }
+    .contact-details h3{
+        font-size: 1.2rem;
+    }
+    .contact-details p{
+        font-size: 1rem;
+    }
+    .contact-form{
+        width:100%;
+    }
+    .contact-form form{
+        align-items: center;
+    }
+    .banner-box{
+        opacity: 0;
+    }
+    .banner-round{
+        opacity: 0;
+    }
+    .banner-text{
+        margin: 2rem;
+    }
+    .stats{
+        gap:25px;
+    }
+    .stats-sec h1{
+        font-size: 1.5rem;
+    }
+    .stats-sec p{
+        font-size: 1rem;
+    }
+    .banner-image{
+        /* : 0%; */
+        left: 0%;
+        width: 100%;
+        /* height:100vh; */
+    }
+}

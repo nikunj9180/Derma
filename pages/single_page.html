@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Product Page</title>
+    <link rel="stylesheet" href="../styles/single_page.css" />
+    <script src="https://kit.fontawesome.com/b5a8447ad3.js" crossorigin="anonymous" defer></script>
+    <link rel="stylesheet" href="../styles/base.css" />
+    <link rel="stylesheet" href="../styles/landing.css" />
+    <link rel="stylesheet" href="../styles/responsive.css" />
+
+
+
+  </head>
+  <body>
+    <nav id="nav">
+        <div class="main-nav container flex">
+            <div class="left-nav">
+                <a href="../index.html">
+                    <div class="company-logo">
+                        <img src="../assets/logo.png" alt="">
+                       </div>
+                </a>
+            </div>
+            <div class="mid-nav flex" id="nav-link">
+                <ul class="navlinks flex" id="nav-link">
+                    <li><a href="./products.html" class="hoverlinks">Product</a></li>
+                    <li><a href="../index.html#testimonial" class="hoverlinks">Testimonial</a></li>
+                    <li><a href="../index.html#faqs" class="hoverlinks">FAQS</a></li>
+                    <li><a href=../index.html#aboutus" class="hoverlinks">ABout us</a></li>
+                </ul>
+            </div>
+            <div class="right-nav">
+                <div class="primary-button"><a href="../index.html#contact">CONTACT US</a></div>
+            </div>
+            <div class="nav-toggle" id="nav-toggle">
+              <var class="hamburger"><i class="fa-solid fa-bars fa-xl"></i></var>
+              <var class="cross"><i class="fa-solid fa-xmark fa-2xl"></i></var>
+          </div>
+        </div>
+    </nav>
+
+    <div class="single-view">
+      <div class="imageContainer" id="imageContainer">
+      </div>
+      <div class="product-details" id="product-details">
+        <h2 id="productName"></h2>
+        <p class="product-quantity" id="product-quantity"></p>
+         <hr>
+        <p class="description" id="description">
+        </p>
+        <hr>
+        <p class="price" id="product-price"></p>
+        <div class="features">
+            <p>Order Now</p>
+            <ul class="footer-logo flex">
+                <li><a target="_blank" href="tel:+917982327629"><i class="fa-solid fa-phone fa-xl fa-lg"></i></a></li>
+                <li><a target="_blank" id="whatsappButton"><i class="fab fa-whatsapp fa-2xl fa-lg"></i></a></li>
+                <li><a target="_blank"href="https://www.instagram.com/anjalimedicaltradingllc/"><i class="fab fa-instagram fa-2xl fa-lg"></i></a></li>
+            </ul>
+    
+        </div>
+      </div>
+      
+    </div>
+    
+    <section class="footer">
+        <div class="container intrested-cont flex">
+            <div class="left-footer">
+                <h2>Anjali Medical Traders</h2>
+            </div>
+            <div class="mid-footer">
+                <p>© 2024 AnjaliMedicalTraders</p>
+            </div>
+            <div class="right-footer">
+                <ul class="footer-logo flex">
+                    <li><a target="_blank"href="https://www.instagram.com/anjalimedicaltradingllc/"><i class="fab fa-instagram fa-2xl fa-lg"></i></a></li>
+                <li><a target="_blank" id="whatsappButton1"><i class="fab fa-whatsapp fa-2xl fa-lg"></i></a></li>
+                    <li><a target="_blank"href="https://www.linkedin.com/company/anjali-medical-trading-llc/"><i class="fa-brands fa-linkedin fa-2xl fa-lg"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <script>
+        const tbtn = document.getElementById('nav-toggle');
+    const nlnk = document.getElementById('nav-link');
+    const nav = document.getElementById('nav');
+    
+    tbtn.addEventListener('click', () => {
+    nlnk.classList.toggle("active");
+    nav.classList.toggle("active");
+    });
+      </script>
+      <script>
+        document.getElementById('whatsappButton').addEventListener('click', function() {
+            const phoneNumber = '7982327629'; // Replace with the target phone number in international format without '+' sign
+            const message = 'Hello, I have an enquiry for order.'; // Replace with your message
+            const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
+            window.open(whatsappUrl, '_blank');
+        });
+    </script>
+    <script>
+        document.getElementById('whatsappButton1').addEventListener('click', function() {
+            const phoneNumber = '7982327629'; // Replace with the target phone number in international format without '+' sign
+            const message = 'Hello, I have an enquiry for order.'; // Replace with your message
+            const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
+            window.open(whatsappUrl, '_blank');
+        });
+    </script>
+    <script type="module" src="../js/productDetail.js" defer></script>
+
+</body>
+</html>

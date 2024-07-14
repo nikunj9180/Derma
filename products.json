@@ -1,0 +1,60 @@
+{
+    "products":[
+        {
+            "id":"1",
+            "name": "AestheFill V200mg",
+            "brand":"Aesthefill",
+            "image":"../assets/images/aesthefill.Jpg",
+            "description": "AeshtheFill",
+            "price": "$50",
+            "quantity":"1 vial x 200mg per pack"
+        },
+        {
+            "id":"2",
+            "name": "Belotero® Balance 1ml",
+            "brand":"Belotero",
+            "image":"../assets/images/belotero%20balance%201ml%20ams.Png",
+            "description": "Belotero Balance is developed with the moisturizing and volumizing substance, hyaluronic acid, which already exists in the skin. Therefore, the filler integrates seamlessly into the skin, allowing an immediate and smooth correction of fine to deep lines with a volumizing effect.Belotero Balance is recommended for the medium to deep dermis for moderate to severe facial wrinkles, lines, and folds such as glabellar lines, nasolabial folds, marionette lines, lip contours, lip volume, and oral commissures. The result of Belotero Balance lasts up to six months and is natural-looking and immediate, but improves in the following two weeks after the treatment.",
+            "price": "$25",
+            "quantity":"Syringe 1 x 1ml"
+        },
+        {
+            "id":"3",
+            "name": "Belotero® Balance Lidocaine 1ml",
+            "brand":"Belotero",
+            "image":"../assets/images/belotero%20balance%20lidocane%201ml%20ams.Png",
+            "description": "Belotero Balance Lidocaine is a hyaluronic acid filler that seamlessly integrates the skin achieving an immediate smooth correction of deep and fine lines. Belotero Balance contains anesthetic lidocaine to make the injection more comfortable. The product is recommended for the medium to deep dermis for moderate to severe facial wrinkles, lines, and folds such as glabellar lines, nasolabial folds, marionette lines, lip contours, lip volume, and oral commissures. Belotero Balance Lidocaine provides natural-looking results that last up to six months. The results are immediate but continue to improve the following two weeks.",
+            "price": "$50",
+            "quantity":"Syringe 1 x 1ml"
+        },
+        {
+            "id":"4",
+            "name": "Belotero® Intense 1ml",
+            "brand":"Belotero",
+            "image":"../assets/images/Belotero%20Intense%201%20ml%20AMS.Png",
+            "description": "Belotero Intense is a delicate filler that integrates seamlessly into the skin to provide a natural volume for deep lines and lip augmentation treatments. The high elasticity of the filler provides excellent skin support making it ideal for delicate areas such as marionette lines, nasolabial folds, lip contours, lip volume, oral commissures, and cupid’s bow. Belotero Intense provides an immediate smooth correction of fine lines leaving the skin refreshed and plump with a long-lasting result for up to 12 months.",
+            "price": "$50",
+            "quantity":"Syringe 1 x 1ml"
+        },
+        {
+            "id":"5",
+            "name": "Belotero® Intense Lidocaine 1ml",
+            "brand":"Belotero",
+            "image":"../assets/images/belotero%20intense%20lidocaine%201ml.%20ams.Png",
+            "description": "Belotero Intense lidocaine is a unique filler used to correct fine to deep lines due to its slightly thicker gel than the rest of the Belotero fillers. It integrates seamlessly into the skin to enhance natural volume and provide immediate correction of lines leaving the skin youthful with a long-lasting result for up to 12 months. Belotero Intense Lidocaine is used in the deep dermis for deeper lines and wrinkles such as nasolabial folds, marionette lines, lip contours, lip volume, oral commissures, cupid’s bow. Belotero Intense contains lidocaine for a more comfortable injection.",
+            "price": "$50",
+            "quantity":"Syringe 1 x 1ml"
+        },
+        {
+            "id":"5",
+            "name": "Belotero® Lips Contour Lidocaine 0.6ml",
+            "brand":"Belotero",
+            "image":"../assets/images/belotero%20lips%20contour%20lidocaine.Png",
+            "description": "Belotero Lips Contour Lidocaine is developed to restore the outline of the lips and enhance the natural lip shape for a more youthful look. The cross-linked substance hyaluronic acid benefits the product with an immediate contouring effect and reduces wrinkles around the mouth area. Belotero Lips Contour contains high viscosity and low viscosity making the filler excellent suited for dynamic areas and allowing great integration for superficial injections. The result obtained with Belotero Lips Contour Lidocaine lasts approximately 6 months depending on the individual skin type, lifestyle, age, and technique used by the medical professional. Belotero Lips Contour is recommended for use in combination with Belotero Lips Shape to achieve subtle and natural lip enhancements.",
+            "price": "$50",
+            "quantity":"Syringe 1 x 0.6ml"
+        }
+        
+
+    ]
+}

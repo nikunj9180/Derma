@@ -1,0 +1,105 @@
+
+  .productImg {
+    height: 80%;
+    padding: 2rem 0rem 2rem 4rem;
+    margin-top: 5rem;
+    /* width: 100%; */
+  }
+  .productImg img{
+    height: 100%;
+    padding: 2rem;
+    margin-top: 5rem;
+    width: 100%;
+  }
+  hr {
+    border: none; /* Remove default border */
+    height: 2px; /* Set the height */
+    background-color: #000; /* Set the color */
+    width: 100%; /* Set the width */
+}
+  
+  .single-view{
+    display: flex;
+    height: 100vh;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+  .product-details {
+    padding: 4rem;
+    margin-top: 4rem;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    /* background-color: #ede2d1; */
+
+  }
+  
+  .product-details h2 {
+    font-family:  gallient;
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    line-height: 3.3rem;
+    /* inline-size: 1rem; */
+  }
+  
+  .product-quantity {
+    font-size: 1.3rem;
+    margin-bottom: 2rem;
+    color: grey;
+  }
+  
+  .features {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-weight: bold;
+    margin-top: 2rem;
+    /* text-align: center; */
+    line-height: 2rem;
+  }
+  .features p{
+    font-family:gallient;
+    font-weight: bold;
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;;
+
+  }
+  .price {
+    font-size: 1.5rem;
+    margin-top: 2rem;
+  }
+  
+  .description {
+    margin-top: 0.3rem;
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+  }
+  
+  @media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .single-view{
+        flex-direction: column;
+        height: 100%;
+    }
+    .productImg{
+        height: 100%;
+        width: 100%;
+        margin-top: 3rem;
+        padding: 1.3rem;
+    }
+
+    .product-details {
+    margin-top: 1rem;
+    padding: 2rem;
+      max-width: fit-content;
+      display: flex;
+      align-items: center;
+      /* justify-content: center; */
+      text-align: center;
+    }
+    .product-details h2{
+        margin-bottom: 1rem;
+    }
+  }
+  

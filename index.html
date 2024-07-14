@@ -2,33 +2,42 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>AMT</title>
 
     <script src="https://kit.fontawesome.com/b5a8447ad3.js" crossorigin="anonymous" defer></script>
 
     <link rel="stylesheet" href="./styles/base.css">
     <link rel="stylesheet" href="./styles/landing.css">
+    <link rel="stylesheet" href="./styles/responsive.css">
 
     <script src="./js/testimonial.js" defer></script>
     <script src="./js/faq.js" defer></script>
 </head>
 <body>
-    <nav>
+    <nav id="nav">
         <div class="main-nav container flex">
             <div class="left-nav">
-                <h2>Title</h2>
+                <!-- <h2>Anjali Medical Traders</h2> -->
+                 <div class="company-logo">
+                 <img src="./assets/logo.png" alt="">
+                </div>
             </div>
-            <div class="mid-nav">
-                <ul class="navlinks flex">
-                    <li><a href="" class="hoverlinks">Product</a></li>
-                    <li><a href="#testies" class="hoverlinks">Testimonial</a></li>
+            <div class="mid-nav flex" id="nav-link">
+                <ul class="navlinks flex" id="nav-link">
+                    <li><a href="./pages/products.html" class="hoverlinks">Product</a></li>
+                    <li><a href="#testimonial" class="hoverlinks">Testimonial</a></li>
                     <li><a href="#faqs" class="hoverlinks">FAQS</a></li>
                     <li><a href="#aboutus" class="hoverlinks">ABout us</a></li>
                 </ul>
             </div>
             <div class="right-nav">
                 <div class="primary-button"><a href="#contact">CONTACT US</a></div>
+                
             </div>
+            <div class="nav-toggle" id="nav-toggle">
+              <var class="hamburger"><i class="fa-solid fa-bars fa-xl"></i></var>
+              <var class="cross"><i class="fa-solid fa-xmark fa-2xl"></i></var>
+          </div>
         </div>
     </nav>
     <section class="banner">
@@ -39,25 +48,25 @@
                 <p>Best Skin care</p>
             </div>
             <div class="banner-text container flex">
-                <div class=""><span class="secondary-button">welcome to title</span></div>
-                <h1 class="main-head">You Need To Care <br> Of Yourself</h1>
-                <p>We use premium products for a more natural result.</p>
+                <div class=""><span class="secondary-button">Anjali Medical Traders</span></div>
+                <h1 class="main-head">You Need To Take Care <br> Of Yourself</h1>
+                <p>We sell premium quality products.</p>
                 <div class="banner-btns flex">
-                    <div><a class="primary-button" href="">Explore</a></div>
-                    <div><a href="" class="secondary-button">contact us</a></div>
+                    <div><a class="primary-button" href="./pages/products.html">Explore</a></div>
+                    <div><a href="#contact" class="secondary-button">contact us</a></div>
                 </div>
                 <div class="stats flex">
                     <div class="stats-sec">
                         <h1>500+</h1>
-                        <p>Resellers</p>
+                        <p>Happy customers</p>
                     </div>
                     <div class="stats-sec">
-                        <h1>20+</h1>
+                        <h1>40+</h1>
                         <p>products</p>
                     </div>
                     <div class="stats-sec">
-                        <h1>100+</h1>
-                        <p>customers</p>
+                        <h1>20+</h1>
+                        <p>reviews</p>
                     </div>
                 </div>
             </div>
@@ -78,48 +87,58 @@
             </div>
         </div>
     </section>
-    <section class="testimonial" id="testies">
+    <section class="testimonial" id="testimonial">
         <div class="container test-cont">
-            <h2><span class="u">Testimoni</span>als</h2>
+            <h2 class="testimonial-header"><span class="u">Testimoni</span>als</h2>
             <div class="testi-cards flex">
                 <div class="testi-card">
                     <div class="testicontent flex">
                         <div class="quote"><i class="fa-solid fa-quote-right fa-flip-both fa-2xl"></i></div>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia commodi maiores et consequatur eveniet mollitia nostrum, earum sapiente rem itaque ea asperiores suscipit autem facere, voluptate similique in inventore quas!</p>
+                        <p>I had an excellent experience at The Monalisa clinic for birthmark removal in Delhi. Their expertise and precision are unmatched. The birthmark removal cost here in GTB Nagar was reasonable, and the results exceeded my expectations. Highly recommend their services</p>
                         <div class="quote"><i class="fa-solid fa-quote-right fa-2xl"></i></div>
                     </div>
                     <div class="testi-customer">
-                        <p><i class="fa-solid fa-user"></i> Pratham Arora</p>
+                        <p><i class="fa-solid fa-user"></i> Anna Singh</p>
                     </div>
                 </div>
                 <div class="testi-card">
                     <div class="testicontent flex">
                         <div class="quote"><i class="fa-solid fa-quote-right fa-flip-both fa-2xl"></i></div>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia commodi maiores et consequatur eveniet mollitia nostrum, earum sapiente rem itaque ea asperiores suscipit autem facere, voluptate similique in inventore quas!</p>
+                        <p>The Monalisa Clinic for a makeover clinic experience and left highly impressed. Their cosmetic skin clinic delivers fantastic results.</p>
                         <div class="quote"><i class="fa-solid fa-quote-right fa-2xl"></i></div>
                     </div>
                     <div class="testi-customer">
-                        <p><i class="fa-solid fa-user"></i> Anupam Mittal</p>
+                        <p><i class="fa-solid fa-user"></i> Anannya VermVisited</p>
                     </div>
                 </div>
                 <div class="testi-card">
                     <div class="testicontent flex">
                         <div class="quote"><i class="fa-solid fa-quote-right fa-flip-both fa-2xl"></i></div>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia commodi maiores et consequatur eveniet mollitia nostrum, earum sapiente rem itaque ea asperiores suscipit autem facere, voluptate similique in inventore quas!</p>
+                        <p>I had my birthmark removed at Monalisa Clinic in Delhi. The procedure was smooth and the cost was reasonable. I'm delighted with the outcome.</p>
                         <div class="quote"><i class="fa-solid fa-quote-right fa-2xl"></i></div>
                     </div>
                     <div class="testi-customer">
-                        <p><i class="fa-solid fa-user"></i> Pankaj</p>
+                        <p><i class="fa-solid fa-user"></i> Ranjana Harsude</p>
                     </div>
                 </div>
                 <div class="testi-card">
                     <div class="testicontent flex">
                         <div class="quote"><i class="fa-solid fa-quote-right fa-flip-both fa-2xl"></i></div>
-                        <p>Amazing services omg!!!! lmao</p> 
+                        <p>Dr. Aman is the best cosmetic dermatologist in GTB Nagar Delhi. Their expertise is unmatched. She provides personalized care and effective solutions for all skin problems.</p> 
                         <div class="quote"><i class="fa-solid fa-quote-right fa-2xl"></i></div>
                     </div>
                     <div class="testi-customer">
-                        <p><i class="fa-solid fa-user"></i> Nikunj Gupta</p>
+                        <p><i class="fa-solid fa-user"></i> Jyoti Panchore</p>
+                    </div>
+                </div>
+                <div class="testi-card">
+                    <div class="testicontent flex">
+                        <div class="quote"><i class="fa-solid fa-quote-right fa-flip-both fa-2xl"></i></div>
+                        <p>The Monalisa Clinic is an outstanding dermatology clinic in GTB Nagar Delhi. Dr. Aman, the best dermatologist and skin specialist in Delhi, offers.</p> 
+                        <div class="quote"><i class="fa-solid fa-quote-right fa-2xl"></i></div>
+                    </div>
+                    <div class="testi-customer">
+                        <p><i class="fa-solid fa-user"></i> Chander Kumar</p>
                     </div>
                 </div>
             </div>
@@ -158,7 +177,7 @@
                         <i class="fa-solid fa-location-crosshairs fa-2xl"></i> 
                             <div class="address-info">
                                 <h3>Our Shop Address</h3>
-                                <p>Shop no 5, 1965, Om Mandir Marg,Outram Lines, opp. to hospital, Kingsway Camp, Mukherjee Nagar, Delhi, 110009</p>
+                                <p>1965, Basement, Outram Ln, Kingsway Camp, GTB Nagar, New Delhi, Delhi, India</p>
                             </div>       
                         </div>
                     </a>
@@ -167,7 +186,7 @@
                         <i class="fa-solid fa-phone fa-xl"></i>
                             <div class="address-info">
                                 <h3>Our Phone No</h3>
-                                <p>+91 98106 62046</p>
+                                <p>+91 79823 27629</p>
                             </div>       
                         </div>
                     </a>
@@ -182,7 +201,8 @@
                     </a>
                 </div>
                 <div class="contact-form">
-                    <form action="" class="form-cont flex">
+                    <form action="https://api.web3forms.com/submit" method="POST" class="form-cont flex">
+                        <input type="hidden" name="access_key" value="dae1117f-baa6-4713-9d1a-7867a3612f87">
                         <input type="text" placeholder="Name" name="name" id="name" required>
                         <input type="tel" placeholder="Phone No" name="phone" id="phone" required>
                         <input type="email" placeholder="Email Id" name="email" id="email" required>
@@ -205,19 +225,37 @@
     <section class="footer">
         <div class="container intrested-cont flex">
             <div class="left-footer">
-                <h2>kingsway</h2>
+                <h2>Anjali Medical Traders</h2>
             </div>
             <div class="mid-footer">
-                <p>© 2023 kingsway</p>
+                <p>© 2024 AnjaliMedicalTraders</p>
             </div>
             <div class="right-footer">
                 <ul class="footer-logo flex">
-                    <li><a target="_blank"href=""><i class="fab fa-instagram fa-2xl fa-lg"></i></a></li>
-                    <li><a target="_blank"href=""><i class="fab fa-whatsapp fa-2xl fa-lg"></i></a></li>
-                    <li><a target="_blank"href=""><i class="fa-brands fa-telegram fa-2xl fa-lg"></i></a></li>
+                    <li><a target="_blank"href="https://www.instagram.com/anjalimedicaltradingllc/"><i class="fab fa-instagram fa-2xl fa-lg"></i></a></li>
+                    <li><a target="_blank" id="whatsappButton"><i class="fab fa-whatsapp fa-2xl fa-lg"></i></a></li>
+                    <li><a target="_blank"href="https://www.linkedin.com/company/anjali-medical-trading-llc/"><i class="fa-brands fa-linkedin fa-2xl fa-lg"></i></a></li>
                 </ul>
             </div>
         </div>
     </section>
+    <script>
+        const tbtn = document.getElementById('nav-toggle');
+    const nlnk = document.getElementById('nav-link');
+    const nav = document.getElementById('nav');
+    
+    tbtn.addEventListener('click', () => {
+    nlnk.classList.toggle("active");
+    nav.classList.toggle("active");
+    });
+      </script>
+      <script>
+        document.getElementById('whatsappButton').addEventListener('click', function() {
+            const phoneNumber = '7982327629'; // Replace with the target phone number in international format without '+' sign
+            const message = 'Hello, I have an enquiry for order.'; // Replace with your message
+            const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
+            window.open(whatsappUrl, '_blank');
+        });
+    </script>
 </body>
 </html>

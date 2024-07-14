@@ -5,6 +5,8 @@ nav{
     z-index: 13;
     width: 100%;
     background-color: white;
+    margin: 0;
+    opacity: 1;
 }
 .main-nav{
     justify-content: space-between;
@@ -14,11 +16,19 @@ nav{
 .left-nav h2{
     font-family: gallient;
 }
+.nav-toggle{
+    display: none;
+}
 .navlinks{
     gap: 25px;
 }
 .hoverlinks{
     text-transform: uppercase;
+}
+
+.company-logo img{
+    height:80px;
+    width:auto;
 }
 
 /* BANNER */
@@ -103,7 +113,9 @@ nav{
 
 
 .testimonial{
-    margin: 50px;
+    /* margin: 50px; */
+    background-color: #ede2d1;
+    padding: 50px;
 } 
 .test-cont{
     padding:20px var(--padding-inline);
@@ -148,15 +160,14 @@ nav{
 /* ---about-us---- */
 .about-us-section{
     user-select: none;
-    margin: 150px;
 }
 
 .about-us-section-cont{
     padding: var(--padding-inline);
-    padding-top: 80px;
+    padding: 80px;
     justify-content: space-between;
     flex-direction: row-reverse;
-    align-items:end;
+    align-items:center;
     border-top: 1px solid white;
 }
 
