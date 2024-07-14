@@ -30,6 +30,10 @@ nav{
     height:80px;
     width:auto;
 }
+.company-logo-footer img{
+    height:120px;
+    width:auto;
+}
 
 /* BANNER */
 .main-banner-cont{
