@@ -46,13 +46,265 @@
             "quantity":"Syringe 1 x 1ml"
         },
         {
-            "id":"5",
+            "id":"6",
             "name": "Belotero® Lips Contour Lidocaine 0.6ml",
             "brand":"Belotero",
             "image":"../assets/images/belotero%20lips%20contour%20lidocaine.Png",
             "description": "Belotero Lips Contour Lidocaine is developed to restore the outline of the lips and enhance the natural lip shape for a more youthful look. The cross-linked substance hyaluronic acid benefits the product with an immediate contouring effect and reduces wrinkles around the mouth area. Belotero Lips Contour contains high viscosity and low viscosity making the filler excellent suited for dynamic areas and allowing great integration for superficial injections. The result obtained with Belotero Lips Contour Lidocaine lasts approximately 6 months depending on the individual skin type, lifestyle, age, and technique used by the medical professional. Belotero Lips Contour is recommended for use in combination with Belotero Lips Shape to achieve subtle and natural lip enhancements.",
             "price": "$50",
             "quantity":"Syringe 1 x 0.6ml"
+        },
+        {
+            "id":"7",
+            "name": "Belotero® Lips Shape Lidocaine 0,6ml",
+            "brand":"Belotero",
+            "image":"../assets/images/belotero%20lips%20shape%20lidocaine.Png",
+            "description": "Belotero Lips Shape Lidocaine is developed to enhance the volume of the upper and lower lip. Belotero Lips Shape improves the appearance of the lips by adding shape, structure, and volume. Furthermore, it can be used to enhance the corners of the mouth. This hyaluronic acid filler contains lidocaine, which makes the procedure painless and comfortable. The result of a treatment with Belotero Lips Shape Lidocaine lasts approximately 6 months depending on the individual skin type, lifestyle, age and technique used by the medical professional. Belotero Lips Shape is recommended for use in combination with Belotero Lips Contour to achieve subtle and natural lip enhancements.",
+            "price": "$50",
+            "quantity":"Syringe 1 x 0.6ml"
+        },
+        {
+            "id":"8",
+            "name": "Belotero® Revive 1ml",
+            "brand":"Belotero",
+            "image":"../assets/images/belotero%20revive.Png",
+            "description": "Belotero Revive is an anti-aging skin booster designed to provide hydration in the deep dermis, enhance skin elasticity, firm the skin, enhance skin texture and smoothen fine lines in the facial area. The combination of the substances glycerol and hyaluronic acid reduce wrinkle formation and redefine the skin structure for a youthful and glowing complexion. Furthermore, Belotero Revive improves skin moisturizing and reduces skin redness. The skinbooster can be injected over multiple treatments every 4 weeks in order to maintain a youthful result. The results are natural-looking and last up to 9 months.",
+            "price": "$50",
+            "quantity":"Syringe 1 x 1ml"
+        },
+        {
+            "id":"9",
+            "name": "Belotero® Soft 1ml",
+            "brand":"Belotero",
+            "image":"../assets/images/belotero%20soft%20lidocaine%201%20ml%20(1).Png",
+            "description": "Belotero® Soft is designed for a superficial injection to correct fine lines and wrinkles in areas like the forehead, crow’s feet around eyes, lip commissures, and perioral lines. With benefits from hyaluronic acid and a cohesive technology, the fillers binding capacity increases leaving the skin rehydrated with added volume. Belotero Soft integrates seamlessly into the skin for a smooth correction of wrinkles and fine lines with a youthful and natural effect. Results obtained with Belotero Soft are natural-looking and last up to 12 months.",
+            "price": "$50",
+            "quantity":"Syringe 1 x 1ml"
+        },
+        {
+            "id":"10",
+            "name": "Belotero® Soft Lidocaine 1ml",
+            "brand":"Belotero",
+            "image":"../assets/images/belotero%20soft%20lidocaine%201%20ml.Png",
+            "description": "Belotero Soft Lidocaine is developed to target even the smallest wrinkles and superficial lines. With benefits from the cohesive technology, the filler integrates seamlessly into the skin for a smooth and natural correction of fine to deep lines. The filler is recommended to use in the forehead area, lip commissures, and crow’s feet around the eyes. Belotero Soft contains lidocaine for a painless injection and leaves the skin youthful with long-lasting benefits in up to 12 months.",
+            "price": "$50",
+            "quantity":"Syringe 1 x 1ml"
+        },
+        {
+            "id":"11",
+            "name": "Belotero® Volume 1ml",
+            "brand":"Belotero",
+            "image":"../assets/images/belotero%20volume%201ml%20ams.Png",
+            "description": "Belotero Volume is developed for intensive volume enhancement of the cheeks, chin, and temples. When injected the filler evenly distributes the targeted areas and form a natural result. The filler is ideal to add volume and improve the facial contours while lifting and softening the treated area. With the use of hyaluronic acid, the filler restores facial wrinkles and facial volume. Belotero Volume provides a long-lasting result up to 18 months. This depends on the individual’s lifestyle, age, and skin type.",
+            "price": "$50",
+            "quantity":"Syringes 2 x 1ml"
+        },
+        {
+            "id":"12",
+            "name": "Belotero® Volume Lidocaine 1ml",
+            "brand":"Belotero",
+            "image":"../assets/images/belotero%20volumen%20lidocaine%201%20ml%20ams.Png",
+            "description": "Belotero Volume Lidocaine is a hyaluronic acid filler developed to restore facial volume and fill deep wrinkles. The product is designed to easily incorporate and increase volume making it ideal for areas of the face such as the cheeks, temples and chin. The filler contains lidocaine for a more comfortable injection. Belotero Volume Lidocaine leaves the skin youthful and flawless with a long-lasting result in up to 18 months.",
+            "price": "$50",
+            "quantity":"Syringes 2 x 1ml"
+        },
+        {
+            "id":"13",
+            "name": "DR. CYJ Hair Filler 1ml",
+            "brand":"Dr Cyj",
+            "image":"../assets/images/dr.%20cyj%20hair%20filler%20ams.Png",
+            "description": "DR. CYJ Hair Filler is an innovative gel designed to be injected into the scalp to tackle common hair issues such as hair loss and thinning. With its innovative peptide technology, DR. CYJ Hair Filler stimulates hair regeneration while enhancing blood circulation in the scalp. It is based on a unique formula combining hyaluronic acid with seven peptides to stimulate faster hair growth and help the hair appear thicker. The product can be used for both women and men with thin hair, or it can be used to help treat androgenic alopecia.",
+            "price": "$50",
+            "quantity":"2 syringes x 1ml per pack"
+        },
+        {
+            "id": "14",
+            "name": "Fillmed® NCTF 135HA 3ml",
+            "brand": "Fillmed",
+            "image": "../assets/images/fillmed-nctf-135ha-3ml.Png",
+            "description": "Fillmed NCTF 135HA is the perfect mesotherapy product to treat dehydrated or loose skin and repair superficial wrinkles by intense revitalization and rejuvenation. The skin booster is intended to hydrate and moisturize the skin while recover lost elasticity and optimize skin radiance on facials areas, the neck, and décolleté. The anti-aging solution is even suitable for the treatment of sensitive skin on the back of the hands. Fillmed NCTF 135HA uses non-cross-linked hyaluronic acid with a concentration of 5mg/ml as the active ingredient supplemented by 59 active ingredients including vitamins, amino acids, coenzymes, nucleic acids, minerals, antioxidants. The special combination creates the optimal environment to boost fibroblasts activity, which is responsible for the production of collagen, elastin, and hyaluronic acid so the skin regains its youthful, fresh glow. Furthermore, NCTF 135HA stimulates the skin without changing facial features or expressions. The results obtained with Fillmed NCTF 135HA are visible immediately after the treatment.",
+            "price": "",
+            "quantity": "Vials 5 x 3ml"
+        },
+        {
+            "id": "15",
+            "name": "Fillmed® M-HA 10 3ml",
+            "brand": "Fillmed",
+            "image": "../assets/images/fillmed-m-ha-10-3ml.Png",
+            "description": "Fillmed M-HA 10 is a viscoelastic mesotherapy solution used to restore the level of hyaluronic acid in the skin caused by skin aging and other environmental factors. As a part of the Fillmed NCTF mesotherapy range, Fillmed M-HA 10 helps to treat dehydrated and tired skin quickly and effectively. Furthermore, the anti-aging product improves skin radiance, tone, and elasticity, while filling fine lines and preventing wrinkles. Fillmed M-HA 10 contains non-cross-linked (pure) hyaluronic acid with a concentration of 10 mg/ml, which leads to immediate hydration of the skin tissue. To obtain the best results, use Fillmed M-HA 10 with a roller or pen.",
+            "price": "",
+            "quantity": "Vials 3 x 3ml"
+        },
+        {
+            "id": "16",
+            "name": "Fillmed® Art Filler Fine Lines 1ml",
+            "brand": "Fillmed",
+            "image": "../assets/images/fillmed-art-filler-fine-lines-1ml.Png",
+            "description": "Fillmed Art Filler Fine Lines is a viscoelastic cross-linked hyaluronic acid filler designed to treat fine lines and superficial wrinkles by injection into the superficial dermis. Furthermore, the dermal filler can be used to treat crow’s feet due to its soft smooth texture and ability to spread evenly. Fillmed Art Filler Fine Lines is formulated with TRI-HYAL technology and has a hyaluronic acid concentration of 20 mg/ml with a crosslinking degree of ¼. In addition, Art Filler Fine Lines contains 0,3% lidocaine to ensure comfort during the treatment. Fillmed Art Filler Fine Lines can be used in combination with other Fillmed products.",
+            "price": "",
+            "quantity": "Syringes 2 x 1ml "
+        },
+        {
+            "id": "17",
+            "name": "Fillmed® Art Filler Universal 1,2ml",
+            "brand": "Fillmed",
+            "image": "../assets/images/fillmed-art-filler-universal-1_2ml.Png",
+            "description": "Fillmed Art Filler Universal is a hyaluronic acid filler used to restore facial volume and treat medium to deep wrinkles. In addition, Fillmed Art Filler Universal can be used for lip enhancement and is intended for all parts of the facial area as well as the décolleté. The special formulation of the viscoelastic cross-linked hyaluronic acid gel allows extremely fine modeling and contour adjustment. Results are natural-looking. Thanks to the TRI-HYAL technology, the filler has a cohesive, elastic, and supple texture making it easy to inject. Fillmed Art Filler Universal has a hyaluronic acid concentration of 25 mg/ml, a crosslinking degree of ¾ and contains 0,3% lidocaine to ensure comfort during the treatment. Fillmed Art Filler Universal can be used in combination with other Fillmed products.",
+            "price": "",
+            "quantity": "Syringes 2 x 1,2ml"
+        },
+        {
+            "id": "18",
+            "name": "Fillmed® Art Filler Lips 1ml",
+            "brand": "Fillmed",
+            "image": "../assets/images/fillmed-art-filler-lips-1ml.Png",
+            "description": "Fillmed Art Filler Lips is a soft tissue filler specifically designed for the lips. The lip filler is developed to help contour and create volume in the lips immediately by injection. Thanks to its soft and supple texture, this filler can be applied and shaped easily into the desired form. The volumizing properties of the filler are excellent for contouring the borders of the lips and for treating fine and superficial wrinkles around the mouth area. Results are estimated to last 9-12 months. Fillmed Art Filler Lips is formulated with TRI-HYAL technology and has a hyaluronic acid concentration of 25 mg/ml with a crosslinking degree of ¾. In addition, Art Filler Lips contains 0,3% lidocaine to ensure comfort during the treatment. Fillmed Art Filler Lips can be used in combination with other Fillmed products.",
+            "price": "",
+            "quantity": "Syringes 2 x 1ml"
+        },
+        {
+            "id": "19",
+            "name": "Fillmed® Art Filler Volume 1,2ml",
+            "brand": "Fillmed",
+            "image": "../assets/images/fillmed-art-filler-volume-1_2%20ml.Png",
+            "description": "Fillmed Art Filler Volume is a hyaluronic acid-based filler designed to shape the facial area and replace lost volume in the temples, cheeks, chin, and jawline. Especially deep skin depressions are ideal to treat with this filler. Fillmed Art Filler Volume is made of 3 different types of hyaluronic acid using the TRI-HYAL technology giving a unique easy-to-sculpt texture, which allows to shape, volumize, and smooth the gel into the face easily creating natural-looking results for 6-12 months. The unique filler has a hyaluronic acid concentration of 25 mg/ml, a crosslinking degree of 4/4, and contains 0,3% lidocaine to ensure comfort during the treatment. Fillmed Art Filler Volume can be used in combination with other Fillmed products.",
+            "price": "",
+            "quantity": "Syringes 2 x 1,2ml"
+        },
+        {
+            "id": "20",
+            "name": "Fillmed® NCTF 135 3ml",
+            "brand": "Fillmed",
+            "image": "../assets/images/fillmed_nctf_135_3ml.Png",
+            "description": "Fillmed NCTF 135 is a powerful anti-aging mesotherapy treatment designed to revitalize tired skin, correct superficial wrinkles, and improve elasticity, firmness, and tone of the dermis. The treatment is indicated in cases of dehydrated and sagging skin, lack of radiance as well as loss of density and tone in the face, neck, décolleté, hands, and arms. Furthermore, it helps eliminate dark circles under the eyes and reduces nasolabial folds and marionette lines.  Fillmed NCTF 135 has the ability to stimulate the synthesis of cells in the dermis and is composed of 59 active ingredients including vitamins, amino acids, coenzymes, nucleic acids, minerals, antioxidants, and a concentration of 0,025mg/ml non-cross-linked hyaluronic acid. The unique complex helps to replenish and nourish the skin layers, while deeply moisturizing the skin. The results obtained with Fillmed NCTF 135 are visible immediately after the treatment.",
+            "price": "",
+            "quantity": "Vials 5 x 3ml"
+        },
+        {
+            "id": "21",
+            "name": "Juvederm® Ultra 3 Lidocaine 1ml",
+            "brand": "Juvederm",
+            "image": "../assets/images/juvederm®%20ultra%203%20lidocaine%201ml%20ams.Png",
+            "description": "Juvéderm Ultra 3 Lidocaine is an injectable filler intended to restore lost volume and smooth mid to deep depressions like marionette lines and nasolabial folds. The filler consists of cross-linked hyaluronic acid and contains lidocaine for a more comfortable treatment. Thanks to the thicker consistency, Juvéderm Ultra 3 Lidocaine is ideal to restore lost volume, which provides great possibilities to use in the lips for more volume. The filler is added in the mid to the deep part of the dermis replacing the low levels of hyaluronic acid in the skin. The treatment leaves the skin with a younger and more vibrant skin with results that last 9-12 months.",
+            "price": "",
+            "quantity": "Syringes 2 x 1ml"
+        },
+        {
+            "id": "22",
+            "name": "Juvederm® Ultra 4 Lidocaine 1ml",
+            "brand": "Juvederm",
+            "image": "../assets/images/juvederm®%20ultra%204%20lidocaine%201ml%20ams.Png",
+            "description": "Juvéderm Ultra 4 Lidocaine is a dermal filler based on cross-linked hyaluronic acid ideal for the treatment of medium to deep wrinkles in the facial area. It is intended to increase volume and correct deeper skin depressions that are located around the nose and in the corners of the mouth. Furthermore, Juvéderm Ultra 4 Lidocaine can be used to add volume to the lips and cheekbones. The filler has a high volume capacity and should be injected into the deep part of the dermis. Results are immediate and last up to 12 months.",
+            "price": "",
+            "quantity": "Syringes 2 x 1ml"
+        },
+        {
+            "id": "23",
+            "name": "Juvederm® Ultra Smile Lidocaine 0,55ml",
+            "brand": "Juvederm",
+            "image": "../assets/images/juvederm®%20ultra%20smile%20lidocaine%200_55ml%20ams.Png",
+            "description": "Juvéderm Ultra Smile Lidocaine is a dermal filler specifically formulated to enhance lip volume, redefine the lip shape, and correct vertical lip lines for softer, fuller, and natural-looking lips. Furthermore, the filler is used to smooth fine lines between the nose and mouth as well as in the corners of the mouth. Juvéderm Ultra Smile Lidocaine is ideal to use for highlighting the cupid’s bow and correct asymmetrical lips ensuring the lips are in proportion. It contains lidocaine, local anesthesia, to ensure optimal patient comfort. Thanks to the unique formulation, Juvéderm Ultra Smile Lidocaine provides long-lasting and natural results that last up to 12 months.",
+            "price": "",
+            "quantity": "Syringes 2 x 0,55ml"
+        },
+        {
+            "id": "24",
+            "name": "Juvederm® Volbella Lidocaine 1ml",
+            "brand": "Juvederm",
+            "image": "../assets/images/juvederm®%20volbella%20lidocaine%201ml%20ams.Png",
+            "description": "Juvéderm Volbella Lidocaine is a cross-linked hyaluronic acid filler perfect for smoothing fine lines and treating delicate areas. Juvéderm Volbella Lidocaine is ideal for defining lip contours and increasing volume in the lips in case of asymmetry, contour deformities, and volume loss. It instantly adds fullness to the perioral area and creates definition to the face. Juvéderm Volbella Lidocaine fills up areas in the tissue while it helps to rehydrate the skin. The filler should be injected into the superficial or mid-dermis of the skin. The results are immediate and last up to 12 months.",
+            "price": "",
+            "quantity": "Syringes 2 x 1ml"
+        },
+        {
+            "id": "25",
+            "name": "Juvederm® Ultra 2 Lidocaine 0,55ml",
+            "brand": "Juvederm",
+            "image": "../assets/images/juvederm®%20ultra%202%20lidocaine%200_55ml%20ams.Png",
+            "description": "Juvéderm Ultra 2 Lidocaine is a transparent gel perfect for restoring lost volume in the skin and creating a reduction in fine lines and small wrinkles around the eyes. Furthermore, the filler can be used to treat lines in the forehead, perioral/periorbital wrinkles, glabellar lines or lion’s wrinkles, small nasolabial folds, and slightly marked marionette lines. It can also be used for small lines around the lips. Juvéderm Ultra 2 is based on cross-linked purified hyaluronic acid which mends the molecules together creating a lattice that has additional resistance against breaking down. Juvéderm Ultra 2 Lidocaine is injected in the mid- to deep dermis of the skin. Results can last up to 24 months.",
+            "price": "",
+            "quantity": "Syringes 2 x 0,55ml"
+        },
+        {
+            "id": "26",
+            "name": "Juvederm® Volite Lidocaine 1ml",
+            "brand": "Juvederm",
+            "image": "../assets/images/juvederm®%20volite%20lidocaine%201ml%20ams.Png",
+            "description": "Juvéderm Volite Lidocaine is an innovative filler with Skinbooster properties that improve the quality of the skin leaving it rejuvenated, more vibrant, and hydrated. With stabilized hyaluronic acids Juvéderm Volite Lidocaine increases the elasticity and hydration of the skin making it smoother. Juvéderm Volite Lidocaine reduces fine lines, improves skin quality, and fills superficial skin depressions in areas such as the face, neck, chest, décolleté, and hands. Results from a Juvéderm Volite Lidocaine treatment are immediate and last up to 9 months.",
+            "price": "",
+            "quantity": "Syringes 2 x 1ml"
+        },
+        {
+            "id": "27",
+            "name": "Juvederm® Voluma Lidocaine 1ml",
+            "brand": "Juvederm",
+            "image": "../assets/images/juvederm®%20voluma%20lidocaine%201ml%20ams.Png",
+            "description": "Juvéderm Voluma Lidocaine is a volumizing filler designed to restore lost volume in the facial area. It has a thicker texture making it great for restoring sunken or sagging skin in the temples, cheeks, chin, or jawline, and can be used to resculpt the cheekbones and the oval contours of the face. Juvéderm Voluma Lidocaine is based on cross-linked hyaluronic acids and contains lidocaine to ensure patient comfort. Treatments with Juvéderm Voluma Lidocaine are instant and leave a natural and vibrant-looking skin for up to 18 months. The filler should be injected into the deep to the subcutaneous layer of the skin.",
+            "price": "",
+            "quantity": "Syringes 2 x 1ml"
+        },
+        {
+            "id": "28",
+            "name": "Juvederm® Volux Lidocaine 1ml",
+            "brand": "Juvederm",
+            "image": "../assets/images/juvederm®%20volux%20lidocaine%201ml%20ams.Png",
+            "description": "Juvéderm Volux Lidocaine is a hyaluronic acid-based injectable filler used to restore lost volume in the skin. The filler has a high density making it easy to shape and create a bone-like structure. The thicker gel is also ideal to create volume and prevent the skin from sagging. Juvéderm Volux Lidocaine is optimal for treating the lower face area like the chin and jawline. Furthermore, Juvéderm Volux Lidocaine boosts the skin's natural collagen production and leaves the skin well hydrated. The filler is injected into the subcutaneous and supraperiostal layer of the skin. The results obtained with Juvéderm Volux Lidocaine can last from 9-24 months.",
+            "price": "",
+            "quantity": "Syringes 2 x 1ml"
+        },
+        {
+            "id": "29",
+            "name": "Juvederm® Volift Lidocaine 1ml",
+            "brand": "Juvederm",
+            "image": "../assets/images/juvederm®%20volift%20lidocaine%201ml%20ams.Png",
+            "description": "Juvederm Volift Lidocaine is a hyaluronic filler designed to provide instant correction of deep skin depressions like nasolabial folds, sunken cheeks, and sagging jawline by restoring volume and firmness. In addition, it can be used for face contouring and volume restoration in the lips. Juvederm Volift Lidocaine is based on a low concentration of cross-linked hyaluronic acid and contains lidocaine to ensure comfort during the treatment. It has a smooth gel consistency that allows an easy injection and ensures natural-looking results that last up to 15 months. Juvederm Volift Lidocaine is injected into the deep dermis or the mucous membrane of the lips.",
+            "price": "",
+            "quantity": "Syringes 2 x 1ml"
+        },
+        {
+            "id": "30",
+            "name": "Juvederm® Volift Retouch Lido 0,55ml",
+            "brand": "Juvederm",
+            "image": "../assets/images/juvederm®%20volift%20retouch%20lido%200_55ml.Png",
+            "description": "Juvéderm Volift Retouch Lidocaine is an innovative facial filler intended for treating deep skin depressions, restoring volume and firmness as well as increasing lip volume. The filler is made from hyaluronic acid of non-animal origin and is the newest addition to the Juvéderm range. Juvéderm Volift Retouch Lidocaine is an excellent choice to correct scars and restore volume to sunken cheeks and sagging jawlines while allowing natural facial expressions and movements. Juvéderm Volift Retouch Lidocaine can be used to treat, nasolabial folds, marionette lines, cheeks, vertical lip lines, eyebrow lift, and correct facial asymmetry as well as contour deformities. The results obtained with Juvéderm Volift Retouch are natural, instant, and last up to 15 months.",
+            "price": "",
+            "quantity": "Syringes 2 x 0,55ml"
+        },
+        {
+            "id": "31",
+            "name": "Sculptra® 5ml",
+            "brand": "Sculptra",
+            "image": "../assets/images/sculptra.Jpg",
+            "description": "Sculptra is an injectable bio-stimulator designed to add volume and correct skin depressions by stimulating the skin’s production of collagen. It is suitable for adding volume to depressed areas such as wrinkles, folds, scars as well as correcting deep nasolabial folds. Furthermore, Sculptra can be used for large volume corrections due to facial fat loss (lipoatrophy) and to treat skin laxity. The main ingredient in Sculptra is microparticles of Poly-L-Lactic Acid (PLLA), which activates the skin cells to stimulate the production of collagen in a natural way to restore skin quality, support, volume, and firmness. In addition, the collagen stimulator provides a natural and refreshed look that can last up to 24 months. It is recommended to get a series of treatments of Sculptra, typically about 3 sessions over a few months, to achieve the best results.",
+            "price": "",
+            "quantity": "Vials 2 x 5ml"
+        },
+        {
+            "id": "32",
+            "name": "Profhilo® H+L 2ml",
+            "brand": "Profhilo",
+            "image": "../assets/images/profhilo®%20h_l%202ml.Png",
+            "description": "Profhilo H+L 2ml is a unique bio-remodeling treatment designed to add volume, boost hydration, and smooth fine lines and wrinkles thanks to its anti-aging formula. Profhilo H+L is the first product based on stabilized hyaluronic acid that is manufactured with no use of chemical cross-linking agents (BDDE). In addition, it contains the highest concentration of hyaluronic acid (64 mg) in the market. The remodeling treatment helps to stimulate the natural production of collagen and elastin and will leave the skin with more texture and glow. Profhilo H+L 2ml is suitable not only for the face but also for body parts such as the hands, décolleté, and neck. The recommended amount of sessions is 2-3 with 4 weeks apart. The results are instant and will last from 6 months to 12 months, depending on the individual´s skin properties.",
+            "price": "",
+            "quantity": "Syringe 1 x 2ml"
+        },
+        {
+            "id": "33",
+            "name": "Profhilo® Body Kit",
+            "brand": "Profhilo",
+            "image": "../assets/images/profhilo®%20body%20kit.Png",
+            "description": "Profhilo Body Kit is a complete 3-step body treatment pack. The pack consists of Profhilo Body, Profhilo Figura Body Patch, and Profhilo Body Cream. Profhilo Body injectable uses the NAHYCO® Technology with high and low molecular weight Stable Cooperative Hybrid Complexes (HCC) proven to delay the aging process of the skin. Profhilo Figura Body Patch and Profhilo Body Cream are hydrating solutions that help the skin to a better healing process adding moisture and hydration to the deep skin tissue and effectively reducing skin redness. ",
+            "price": "",
+            "quantity": "Kit 1 x 4 items"
+        },
+        {
+            "id": "34",
+            "name": "Profhilo Structura 2ml",
+            "brand": "Profhilo",
+            "image": "../assets/images/profhilo%20structura%202ml_new.Png",
+            "description": "Profhilo Structura 2ml is a new cutting-edge injectable treatment designed to rejuvenate and hydrate the skin effectively. Unlike Profhilo H+L, which consists of a combination of high and low molecular weight hyaluronic acid (64mg/2ml), Profhilo Structura focuses specifically on providing deep hydration and helps the body regenerate the facial fat tissue for more structural support. Profhilo Structura contains a higher concentration of HA (90mg/2ml) than Profhilo H+L. This makes Profhilo Structura ideal for enhancing skin firmness, elasticity, and overall texture. By stimulating collagen and elastin production, Profhilo Structura helps to improve skin quality over time, offering a smoother, plumper appearance for those with thin or beginning to loose skin.",
+            "price": "",
+            "quantity": "1 syringe x 2ml per pack"
         }
         
 

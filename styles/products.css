@@ -157,9 +157,9 @@ body {
     border: 0.1px solid black
 }
 
-.listItems:hover {
+/* .listItems:hover {
     background-color: #ede2d1;
-}
+} */
 
 /* For desktop: */
 .col-1 {width: 8.33%;}
