@@ -5,7 +5,7 @@
             "name": "AestheFill V200mg",
             "brand":"Aesthefill",
             "image":"../assets/images/aesthefill.Jpg",
-            "description": "AeshtheFill",
+            "description": "AestheFill is a brand name associated with a type of dermal filler used in cosmetic procedures. Dermal fillers are injectable substances that are designed to add volume, contour, and smoothen out wrinkles and folds in the skin. Here's a detailed description of AestheFill: Composition: AestheFill typically consists of hyaluronic acid, which is a naturally occurring substance found in the body. Hyaluronic acid fillers are popular because they are well-tolerated and reversible if necessary. Purpose: The primary purpose of AestheFill, like other hyaluronic acid fillers, is to restore volume and shape to areas of the face that have lost elasticity and fullness due to aging or other factors. It is commonly used to fill in wrinkles and lines, particularly around the nose, mouth (nasolabial folds), and lips. Mechanism of Action: When injected into the skin, AestheFill adds volume immediately, plumping up the targeted area and smoothing out wrinkles and folds. Hyaluronic acid also attracts water molecules, which helps to maintain hydration and improve skin texture. Treatment Areas: AestheFill is versatile and can be used in various facial areas to achieve different aesthetic goals, such as enhancing lip volume, defining cheekbones, or filling hollow areas under the eyes. Duration of Results: The longevity of results with AestheFill can vary depending on factors such as the specific formulation used, the treatment area, and individual metabolic factors. Typically, results can last from several months to over a year before touch-up treatments are needed.",
             "price": "$50",
             "quantity":"1 vial x 200mg per pack"
         },
@@ -305,6 +305,69 @@
             "description": "Profhilo Structura 2ml is a new cutting-edge injectable treatment designed to rejuvenate and hydrate the skin effectively. Unlike Profhilo H+L, which consists of a combination of high and low molecular weight hyaluronic acid (64mg/2ml), Profhilo Structura focuses specifically on providing deep hydration and helps the body regenerate the facial fat tissue for more structural support. Profhilo Structura contains a higher concentration of HA (90mg/2ml) than Profhilo H+L. This makes Profhilo Structura ideal for enhancing skin firmness, elasticity, and overall texture. By stimulating collagen and elastin production, Profhilo Structura helps to improve skin quality over time, offering a smoother, plumper appearance for those with thin or beginning to loose skin.",
             "price": "",
             "quantity": "1 syringe x 2ml per pack"
+        },
+        {
+            "id": "35",
+            "name": "Saypha Filler Lidocaine 1ml",
+            "brand": "Saypha",
+            "image": "../assets/images/saypha%20filler%20lidocaine%201ml%20ams.Png",
+            "description": "Saypha Filler Lidocaine is a monophasic hyaluronic acid dermal filler intended to correct moderate to severe wrinkles and folds as well as to increase lip volume. The multifunctional filler can easily fill in and smooth out wrinkles and lines due to its unique composition of high viscoelasticity hyaluronic acid. In addition, this filler contains lidocaine, a local anesthetic, for optimal patient comfort which makes it a great option for lip augmentation. The three-dimensional structure of Saypha Filler Lidocaine makes the filler more resistant to degradation and enables results that can last up to 9 months.",
+            "price": "",
+            "quantity": "Syringe 1 x 1ml"
+        },
+        {
+            "id": "36",
+            "name": "Saypha Rich 1ml",
+            "brand": "Saypha",
+            "image": "../assets/images/saypha%20rich%201ml%20ams.Png",
+            "description": "Saypha Rich is a highly elastic gel implant used for mesotherapy treatments to improve skin elasticity, tone, and hydration resulting in a natural glow. The non-cross-linked hyaluronic acid-based filler contains a high concentration of hyaluronic acid stabilized with glycerol, a natural moisturizer that stores water and provides long hydration of the skin. Saypha Rich helps to regenerate lost hyaluronic acid due to aging, improves hydration, and corrects fine lines such as crow\u2019s feet and smile lines. The product should be injected into the superficial dermis and provides revitalizing effects that may last for up to 3 months.",
+            "price": "",
+            "quantity": "Syringe 1 x 1ml"
+        },
+        {
+            "id": "37",
+            "name": "Saypha Volume Lidocaine 1ml",
+            "brand": "Saypha",
+            "image": "../assets/images/saypha%20volume%20lidocaine%201ml%20ams.Png",
+            "description": "Saypha Volume Lidocaine is a monophasic, biodegradable gel implant intended to eradicate deeper wrinkles and restore facial volume as well as remodel facial contours. Furthermore, the product helps to rejuvenate the skin and reconstruct scars. The filler gently lifts the facial structure while improving the skin tone and elasticity. The filler consists of cross-linked hyaluronic acid and lidocaine, a powerful anesthetic, to ensure a more comfortable injection. The results obtained with Saypha Volume Lidocaine are instant from the first treatment and last approximately 9 months.",
+            "price": "",
+            "quantity": "Syringe 1 x 1ml"
+        },
+        {
+            "id": "38",
+            "name": "Saypha Volume Plus Lidocaine 1ml",
+            "brand": "Saypha",
+            "image": "../assets/images/saypha%20volume%20plus%20lidocaine%201ml%20ams.Png",
+            "description": "Saypha Volume Plus Lidocaine is a hyaluronic acid filler with a strong lifting effect specifically indicated for facial tissue augmentation, restoring facial volume, and shaping facial contours. In addition, the filler can be used for nose correction and correcting scars. Thanks to its excellent lifting ability, the product is ideal to build up the jawline and chin. Saypha Volume Plus Lidocaine is formulated with the highest concentration of cross-linked hyaluronic acid (25 mg/ml) in the range and contains lidocaine for a more comfortable treatment. The filler has a low injection force allowing a precise injection with results that last 6-12 months depending on treatment and the individual's lifestyle, age, and skin type.",
+            "price": "",
+            "quantity": "Syringe 1 x 1ml"
+        },
+        {
+            "id": "39",
+            "name": "Saypha Filler 1ml",
+            "brand": "Saypha",
+            "image": "../assets/images/saypha%20filler%20ams.Png",
+            "description": "Saypha Filler is a cross-linked soft tissue filler designed to reduce moderate to severe facial folds and wrinkles. The ant-aging treatment can be used for all areas of the face but is specifically used for perioral wrinkles, glabellar lines, and nasolabial folds. Saypha Filler is formulated with highly viscoelasticity hyaluronic acid, which has been cross-linked using the patented S.M.A.R.T technology. The result is an innovative gel with a three-dimensional structure providing a strong HA-network, which is more resistant to degradation than other fillers on the market. This enables the filler to provide long-lasting results in up to 9 months.",
+            "price": "",
+            "quantity": "Syringe 1 x 1ml"
+        },
+        {
+            "id": "40",
+            "name": "Saypha Volume 1ml",
+            "brand": "Saypha",
+            "image": "../assets/images/saypha%20volume%201ml%20ams.Png",
+            "description": "Saypha Volume is a volumizing filler designed to reduce deep wrinkles and folds, correct skin depressions, shape facial contours, and create facial volume. The filler is made of highly cross-linked hyaluronic acid and is characterized by its high elasticity making it ideal for facial contouring. The results obtained with Saypha Volume are immediate and last at least 9 months depending on the individual's lifestyle, age, and skin type.",
+            "price": "",
+            "quantity": "Syringe 1 x 1ml"
+        },
+        {
+            "id": "41",
+            "name": "Nobata Botulinum Toxin Type A",
+            "brand": "Nobata",
+            "image": "../assets/images/nobata.png",
+            "description": "Nabota is a brand name for a botulinum toxin type A product that is used primarily for cosmetic purposes, such as reducing the appearance of wrinkles and fine lines on the face. Botulinum toxin type A works by temporarily paralyzing the muscles into which it is injected, thereby smoothing out wrinkles caused by muscle contractions.",
+            "price": "",
+            "quantity": "100 units"
         }
         
 
