@@ -5,7 +5,7 @@
             "name": "AestheFill V200mg",
             "brand":"Aesthefill",
             "image":"../assets/images/aesthefill.Jpg",
-            "description": "AestheFill is a brand name associated with a type of dermal filler used in cosmetic procedures. Dermal fillers are injectable substances that are designed to add volume, contour, and smoothen out wrinkles and folds in the skin. Here's a detailed description of AestheFill: Composition: AestheFill typically consists of hyaluronic acid, which is a naturally occurring substance found in the body. Hyaluronic acid fillers are popular because they are well-tolerated and reversible if necessary. Purpose: The primary purpose of AestheFill, like other hyaluronic acid fillers, is to restore volume and shape to areas of the face that have lost elasticity and fullness due to aging or other factors. It is commonly used to fill in wrinkles and lines, particularly around the nose, mouth (nasolabial folds), and lips. Mechanism of Action: When injected into the skin, AestheFill adds volume immediately, plumping up the targeted area and smoothing out wrinkles and folds. Hyaluronic acid also attracts water molecules, which helps to maintain hydration and improve skin texture. Treatment Areas: AestheFill is versatile and can be used in various facial areas to achieve different aesthetic goals, such as enhancing lip volume, defining cheekbones, or filling hollow areas under the eyes. Duration of Results: The longevity of results with AestheFill can vary depending on factors such as the specific formulation used, the treatment area, and individual metabolic factors. Typically, results can last from several months to over a year before touch-up treatments are needed.",
+            "description": "AestheFill is a brand name associated with a type of dermal filler used in cosmetic procedures. Dermal fillers are injectable substances that are designed to add volume, contour, and smoothen out wrinkles and folds in the skin. Here's a detailed description of AestheFill: Composition: AestheFill typically consists of hyaluronic acid, which is a naturally occurring substance found in the body. Hyaluronic acid fillers are popular because they are well-tolerated and reversible if necessary.",
             "price": "$50",
             "quantity":"1 vial x 200mg per pack"
         },
@@ -368,6 +368,15 @@
             "description": "Nabota is a brand name for a botulinum toxin type A product that is used primarily for cosmetic purposes, such as reducing the appearance of wrinkles and fine lines on the face. Botulinum toxin type A works by temporarily paralyzing the muscles into which it is injected, thereby smoothing out wrinkles caused by muscle contractions.",
             "price": "",
             "quantity": "100 units"
+        },
+        {
+            "id": "42",
+            "name": "Restylane® Defyne Lidocaine 1ml",
+            "brand": "Restylane",
+            "image": "../assets/images/restylane%20defyne%20lidocaine%20ams.Png",
+            "description": "Restylane Defyne Lidocaine is a soft and flexible hyaluronic acid filler designed for the long-lasting shaping of facial contours. The filler is a part of the Restylane Lift range used to sharpen your look and lift the skin to reduce signs of aging. Restylane Defyne Lidocaine gives great support and creates structure and definition to areas like the nose, chin, jawline, and lips. The filler is especially ideal if you have thinner tissue coverage due to its soft gel. Restylane Defyne contains lidocaine and hyaluronic acid, which is stabilized using the OBT™ technology that delays degradation providing long-lasting results that last up to 12 months. ",
+            "price": "",
+            "quantity": "Syringe 1 x 1ml"
         }
         
 
